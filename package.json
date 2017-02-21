@@ -1,0 +1,29 @@
+{
+  "name": "cable-connect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "repository": {
+    "type": "public"
+  },
+  "author": "avishek-cmsa",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-filter": "^4.0.0",
+    "gulp-load-plugins": "^1.3.0",
+    "gulp-ng-annotate": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sequence": "^0.4.6",
+    "gulp-uglify": "^2.0.0",
+    "gulp-uglifycss": "^1.0.6",
+    "gulp-util": "^3.0.7"
+  },
+  "dependencies": {
+    "gulp-clean": "^0.3.2",
+    "run-sequence": "^1.2.2",
+	"bower": "^1.8.0",
+	"composer":"^0.14.0"
+  }
+}
